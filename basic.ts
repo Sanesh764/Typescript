@@ -4,3 +4,8 @@ function greet(name:string):string{
 }
 console.log(greet("sanesh"));
 
+
+function Mul(val:number):number{
+    return val*val;
+}
+console.log(Mul(5*5));
