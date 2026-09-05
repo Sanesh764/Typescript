@@ -1,1 +1,1 @@
-this is basic understanding of the typescript which i recently started 
+this is basic understanding of the typescript which i recently started .
